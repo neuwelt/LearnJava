@@ -5,7 +5,7 @@
  * Update:		Can be modified to prompt the user to enter characters from console
  */
 
-package LearnJava.replaceCharacters;
+package LearnJava.objectLifecycle;
 
 import java.util.Scanner;
 
@@ -57,10 +57,4 @@ public class ReplaceCharacters {
 		System.out.println("Output:	" + sb);
 	}
 
-
-	public static void main(String[] args) {
-
-		System.out.print("Input: ");
-		replace();
-	}
 }
