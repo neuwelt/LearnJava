@@ -1,4 +1,4 @@
-package LearnJava.objectLifecycle;
+package objectLifecycle;
 
 public class FixedPointFormat {
 }

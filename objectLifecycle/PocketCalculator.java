@@ -7,7 +7,7 @@
  * Update:		Can be modified to allow different positioning of operator
  */
 
-package LearnJava.objectLifecycle;
+package objectLifecycle;
 
 public class PocketCalculator {
 

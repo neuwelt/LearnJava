@@ -5,7 +5,7 @@
  * Update:		Can be modified to prompt the user to enter characters from console
  */
 
-package LearnJava.objectLifecycle;
+package objectLifecycle;
 
 import java.util.Scanner;
 
