@@ -17,7 +17,18 @@ public class Run {
 
         //    PocketCalculator: Class
         //  uncomment below to run code
-        PocketCalculator.operateDouble(args);
+//        PocketCalculator.operateDouble(args);
+
+        //    Formula: Class
+        //  uncomment below to run code
+//        Formula.doubleResult();
+//        Formula.bigDecimalResult();
+
+
+        // FixedPointFormat: Class
+        //  uncomment below to run code
+        FixedPointFormat num = new FixedPointFormat();
+        num.formString(-1.1);
 
     }
 }
