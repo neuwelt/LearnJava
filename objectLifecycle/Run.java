@@ -27,8 +27,13 @@ public class Run {
 
         // FixedPointFormat: Class
         //  uncomment below to run code
-        FixedPointFormat num = new FixedPointFormat();
-        num.formString(-1.1);
+//        FixedPointFormat num = new FixedPointFormat();
+//        num.formString(-1.1);
+
+
+        // StopWatch: Class
+        StopWatch s = new StopWatch();
+        s.stopMethod();
 
     }
 }
